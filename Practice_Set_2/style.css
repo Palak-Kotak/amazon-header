@@ -1,0 +1,35 @@
+*{
+    background-color: darkblue;
+}
+
+
+.navbar{
+    background-color: black;
+    border: 5px solid white;
+    height: 60px;
+}
+.name{
+    background-color: black;
+    color: #f08804;
+    size: 25px;
+    margin-right: 200px;
+    text-decoration: none;
+}
+.sam{
+    background-color: black;
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+input{
+    width: 150px;
+    background-color: white;
+    color: gray;
+    padding-left: 10px;
+}
+button{
+    width: 70px;
+    height: 20px;
+    background-color: #f08804;
+    color: white;
+}
